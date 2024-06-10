@@ -9,7 +9,11 @@ And also covers the sales analysis in trends and country wise using different ch
 Here are the dashboards that I created. 
 ![alt text][kaavdashboard]
 
+![alt text][Second Page]
+
 
 
 <!-- Image References -->
 [kaavdashboard]: 32045B5E-DEFD-486B-8069-72E022628B28.jpeg "My original layout for the dashboards"
+
+[Second Page]:F269103B-9C9A-4832-A9A7-97650A75DDBE.jpeg
